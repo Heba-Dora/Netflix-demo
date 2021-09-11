@@ -2,6 +2,7 @@
     color:white;
     object-fit: contain;
     height: 448px;
+   
 }
 
 .title h1{
@@ -66,14 +67,17 @@
 .navbar{
     object-fit: contain;
     position: fixed;
-    margin: 20px;
+    margin-left: 20px;
     background-color: transparent;
-    width:100%;
+    width:80px;
     height:2rem;
+    
     
 }
 .img{
     float: left;
     top:0;
     display: flex;
+    
+    
 }
